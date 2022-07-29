@@ -13,7 +13,7 @@
 </h4>
   
 <h4 align="center">
-  🧢 Follow to the JoJo emoji 🦾
+  🧢 Follow to the JoJo giff 🦾
 </h4>
 
 <div align="center">
