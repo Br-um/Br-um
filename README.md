@@ -1,6 +1,12 @@
 <h1 align="center">
-Here we go again :(
+🧑🏻‍🚀Here we go again 🧑🏻‍🚀
 <h1>
+
+  <h3>Focus on:</h3>
+  <li>React🌐</li>
+  <li>Python🐍</li>
+  <li>Javascript👾</li>
+
   
 <h4 align="center">
   💻👨‍Welcome to my profile, here you will find good things💻
