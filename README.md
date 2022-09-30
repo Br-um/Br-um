@@ -14,8 +14,8 @@
 
   <h3>Focus on:</h3>
   <li>React🌐</li>
-  <li>Python🐍</li>
-  <li>Javascript👾</li>
+  <li>NextJs👾</li>
+  <li>Data Science📊</li>
 
   
 <h4 align="center">
