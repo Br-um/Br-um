@@ -22,14 +22,6 @@
 <h4 align="center">
   💻👨‍Welcome to my profile, here you will find good things💻
 </h4>
-  
-<h4 align="center">
-  🧢 Follow to the JoJo giff 🦾
-</h4>
-
-<div align="center">
-  <img src="https://c.tenor.com/z4hfDvyUNXMAAAAd/diavolo-jojo.gif"/>
-</div>
 
 <h2 align="center">
 Statistics 🖥️ 
