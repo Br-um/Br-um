@@ -1,33 +1,14 @@
-<h1 align="center">
-🧑🏻‍🚀Here we go again 🧑🏻‍🚀
+# 🔐🌐
 
-<div dir="auto"><br>
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width: 100%;">
-  </div>
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-green)
+![Privacy First](https://img.shields.io/badge/Privacy-Enabled-blue)
+![P2P](https://img.shields.io/badge/P2P-Secure-orange)
+![Communication](https://img.shields.io/badge/Communication-Encrypted-purple)
 
-<h1>
+---
 
-  <h3>Focus on:</h3>
-  <li>React🌐</li>
-  <li>NextJs👾</li>
-  <li>Data Science📊</li>
-
-  
-<h4 align="center">
-  💻👨‍Welcome to my profile, here you will find good things💻
-</h4>
-
-<h2 align="center">
-Statistics 🖥️ 
-<h2>
-  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Br-um&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br-um&layout=compact">
-</div>
+## 🚀
+- 🔒  
+- 🌍  
+- 📡  
+- 🛡️  
