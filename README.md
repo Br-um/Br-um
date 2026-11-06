@@ -1,10 +1,23 @@
-# 🔐🌐
+# Codando qualquer coisa
 
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-green)
-![Privacy First](https://img.shields.io/badge/Privacy-Enabled-blue)
-![P2P](https://img.shields.io/badge/P2P-Secure-orange)
-![Communication](https://img.shields.io/badge/Communication-Encrypted-purple)
+> Open Source, sempre.
 
----
+## O que é isso
 
-## 🚀 - 🔒 - 🌍 - 📡 - 🛡️  
+Um espaço pra codar o que der na telha. Sem rótulo, sem stack fixa, sem "eu sou dev de X".
+
+Se funcionou, vai pro GitHub. Se não, vai pro lixo.
+
+## Regras
+
+- **Feito > perfeito.**
+- **Código aberto ou não existe.**
+- **Se travou, abre issue. Sem cerimônia.**
+
+## Como contribuir
+
+Fork → branch → commit → PR.
+
+## Contato
+
+[GitHub](https://github.com/voce)   
