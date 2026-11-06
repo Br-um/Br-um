@@ -1,5 +1,3 @@
-# 🪁 Anything
-
-`#livre`
-
-[![status](https://img.shields.io/badge/status-codando-22c55e?style=for-the-badge)](https://github.com/voce)   
+<div align="center">
+  <img src="./neon.svg" width="100%" alt="Neon" />
+</div>
